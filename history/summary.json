@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowforgewebstack.qzz.io.ico",
     "slug": "principal",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.03%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 6
+      "2026-02-17": 88,
+      "2026-02-16": 10
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowforgewebstack.dpdns.org.ico",
     "slug": "segundario",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.04%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 5
+      "2026-02-17": 88,
+      "2026-02-16": 9
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.shadowforgewebstack.qzz.io.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.06%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 4
+      "2026-02-17": 88,
+      "2026-02-16": 7
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.shadowforgewebstack.qzz.io.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
+    "uptime": "98.30%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 3,
+      "2026-02-17": 88,
+      "2026-02-16": 6,
       "2026-02-10": 77
     }
   },
@@ -86,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.shadowforgewebstack.qzz.io.ico",
     "slug": "id",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.08%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 1
+      "2026-02-17": 88,
+      "2026-02-16": 5
     }
   },
   {
@@ -106,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.shadowforgewebstack.qzz.io.ico",
     "slug": "dash",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.09%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 0
+      "2026-02-17": 88,
+      "2026-02-16": 4
     }
   }
 ]
