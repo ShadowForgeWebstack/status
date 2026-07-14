@@ -4,9 +4,9 @@
     "url": "https://ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/shadowforgewebstack.qzz.io.ico",
     "slug": "principal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
@@ -30,7 +30,8 @@
       "2026-04-22": 74,
       "2026-04-29": 95,
       "2026-05-21": 70,
-      "2026-05-22": 265
+      "2026-05-22": 265,
+      "2026-07-14": 0
     }
   },
   {
