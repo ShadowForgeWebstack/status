@@ -4,12 +4,12 @@
     "url": "https://ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/shadowforgewebstack.qzz.io.ico",
     "slug": "principal",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -39,7 +39,7 @@
       "2026-08-18": 23,
       "2026-08-20": 148,
       "2026-08-19": 3,
-      "2026-08-25": 49
+      "2026-08-25": 103
     }
   },
   {
@@ -47,12 +47,12 @@
     "url": "https://ShadowForgeWebstack.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/shadowforgewebstack.dpdns.org.ico",
     "slug": "segundario",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -72,7 +72,7 @@
       "2026-08-18": 22,
       "2026-08-20": 104,
       "2026-08-19": 1,
-      "2026-08-25": 48
+      "2026-08-25": 102
     }
   },
   {
@@ -80,12 +80,12 @@
     "url": "https://cdn.ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.shadowforgewebstack.qzz.io.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.59%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -105,7 +105,7 @@
       "2026-08-18": 21,
       "2026-08-20": 142,
       "2026-08-19": 0,
-      "2026-08-25": 47
+      "2026-08-25": 101
     }
   },
   {
@@ -113,12 +113,12 @@
     "url": "https://api.ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.shadowforgewebstack.qzz.io.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -139,7 +139,7 @@
       "2026-08-17": 110,
       "2026-08-18": 21,
       "2026-08-20": 37,
-      "2026-08-25": 45
+      "2026-08-25": 99
     }
   },
   {
@@ -147,12 +147,12 @@
     "url": "https://id.ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/id.shadowforgewebstack.qzz.io.ico",
     "slug": "id",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.55%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -177,7 +177,7 @@
       "2026-08-17": 109,
       "2026-08-18": 21,
       "2026-08-20": 36,
-      "2026-08-25": 43
+      "2026-08-25": 97
     }
   },
   {
@@ -185,12 +185,12 @@
     "url": "https://dash.ShadowForgeWebstack.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/dash.shadowforgewebstack.qzz.io.ico",
     "slug": "dash",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.78%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -204,7 +204,7 @@
       "2026-08-15": 34,
       "2026-08-17": 75,
       "2026-08-20": 35,
-      "2026-08-25": 42
+      "2026-08-25": 96
     }
   }
 ]
